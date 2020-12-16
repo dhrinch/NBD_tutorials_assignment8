@@ -1,0 +1,15 @@
+run:
+[main] INFO com.basho.riak.client.core.RiakNode - RiakNode started; 127.0.0.1:8087
+Client object created
+DB object created
+[main] INFO com.basho.riak.client.core.RiakCluster - RiakCluster is starting.
+[main] INFO com.basho.riak.client.core.util.DefaultCharset - No desired charset found in system properties, the default charset 'UTF-8' will be used
+[main] INFO com.basho.riak.client.core.util.DefaultCharset - Initializing client charset to: UTF-8
+Object Simon Posford is now stored in Riak
+Object Simon Posford successfully fetched from Riak
+Name: Simon Posford, nationality: british, profession: musician, birth date: 1971-Oct-28, band: N/A
+Object Simon Posford updated
+Object Simon Posford successfully fetched from Riak
+Name: Simon Posford, nationality: british, profession: musician, birth date: 1971-Oct-28, band: Shpongle
+Document deleted
+null
